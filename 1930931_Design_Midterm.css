@@ -1,0 +1,80 @@
+body{
+	background-image: url("images/background4.jpg");
+	background-size: cover ;
+	position: relative;
+	margin:0;
+	font-family:cursive;
+}
+#bar{
+	background-color:lightslategray;
+	height:4%;
+	opacity: 80%;
+
+}
+.nav_items{
+	margin: 5%;
+	padding:2%;
+	text-align: center;
+
+}
+.nav_items a{
+	text-decoration: none;
+	font-size: 1em;
+	color: whitesmoke;
+
+}
+.nav_items a:hover{
+	color:lightsteelblue;
+}
+.home_container{
+	margin-top: 4%;
+	margin-left: 20%;
+	margin-right: 20%;
+	background-color: white;
+	border-color: whitesmoke;	
+	border-radius: 2%;
+	height: 80%;
+	width: 60%;
+	display:flex;
+	justify-content:flex-start;
+  	align-items:space-around;
+   flex-direction:row;
+
+}
+#intro{
+	margin-top: 5%;
+	margin-left: 5%;
+}
+h2{
+	color:lightslategray;
+}
+hr{
+	width: 100%;
+	display: block;
+	color:lightsteelblue;
+}
+#text{
+	padding-top:5%;
+	color: #8b99a7;
+	font-size: 1em;
+
+}
+
+#img{
+	padding:3%;
+	margin-right:3%;
+	margin-top: 10%;
+	margin-left:2%;
+	background-image: url("images/profile.jpg");
+	background-size: cover;
+	height: 50%;
+	width: 300%;
+
+}
+.notes{
+	margin:2%;
+	text-align: center;
+	font-size: 0.75rem;
+	color:#d3d9de;
+
+}
