@@ -174,7 +174,44 @@ hr{
 	color: whitesmoke;
 }
 @media only screen and (max-width: 600px) {
-  body {
-    background-color: whitesmoke;
+
+  #bar {
+    height:8%;
   }
+  .nav_items a{
+  	padding:2%;
+  }
+  #intro{
+  	font-size: 0.75rem;
+  }
+  h2{
+  	font-size:0.75rem;
+  }
+  #text{
+  	font-size: 0.75rem;
+  }
+  #img{
+  	margin-left: 5px;
+  	width:1000px;
+  }
+  .title{
+  	font-size: 0.75rem;
+  }
+  .details{
+  	font-size: 0.75rem;
+  }
+  .courses{
+	font-size: 0.75rem;
+	}
+	.lang{
+		font-size: 0.75rem;
+	}
+	#link{
+		font-size: 0.75rem;
+		width:50%;
+	}
+	.notes{
+		font-size: 0.55rem;
+	}
+ 
 }
