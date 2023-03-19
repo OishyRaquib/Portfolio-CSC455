@@ -102,7 +102,7 @@ hr{
 	background-size: cover ;
 	border-color: whitesmoke;	
 	border-radius: 3%;
-	height: 60%;
+	height: 80%;
 	width: 60%;
 	display:flex;
 	justify-content:flex-start;
@@ -144,7 +144,7 @@ hr{
 	margin-top:1%;
 }
 .work_container{
-	margin-top: 5%;
+	margin-top: 2%;
 	margin-left: 20%;
 	margin-right: 20%;
 	background-image: url("images/background7.jpg");
@@ -152,7 +152,7 @@ hr{
 	background-color: #e2e6e9;
 	border-color: whitesmoke;	
 	border-radius: 3%;
-	height: 98%;
+	height: 130%;
 	width: 60%;
 	display:flex;
 	justify-content:flex-start;
